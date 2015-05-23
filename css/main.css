@@ -17,6 +17,10 @@ body {
 	height: 494px;
 }
 
+.ryu-container {
+	float: left;
+}
+
 .ryu-still, .ryu-ready, .ryu-throwing, .ryu-cool {
 	width: 659px;
 	height: 494px;
@@ -58,6 +62,19 @@ body {
 	top: 169px;
 }
 
+.text {
+	position: absolute;
+	left: 800px;
+	height: 425px;
+	width: 600px;
+	padding-top: 75px;
+	font-family: Bangers, san-serif;
+	font-size: 45px;
+}
+
+.letter-x {
+	color: red;
+}
 
 
 
